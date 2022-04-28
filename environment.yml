@@ -1,0 +1,7 @@
+name: python 3.10.4
+dependencies:
+  - python=3.10.4
+  - jupyter
+  - pyomo
+  - glpk
+  - cyipopt
