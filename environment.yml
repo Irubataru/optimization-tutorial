@@ -5,3 +5,4 @@ dependencies:
   - pyomo
   - glpk
   - cyipopt
+  - gurobipy
