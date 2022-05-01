@@ -1,3 +1,2 @@
 jupyter
 pyomo
-gurobipy
